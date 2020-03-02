@@ -1,0 +1,26 @@
+body {
+    padding-left: 188px;
+    padding-right: 400px;
+    padding-bottom: 288px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: brown;
+    color: blanchedalmond;
+}
+h1 {
+    font-size: 4.5rem;
+    padding-left: 100px;
+    
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3,h4{
+    padding-left: 50px;
+    font-style: bold;
+}
+
+ul {
+    padding-left: 68px;
+}
